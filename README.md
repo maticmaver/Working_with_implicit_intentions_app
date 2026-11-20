@@ -24,7 +24,7 @@ Aplikacija prikazuje osnovne koncepte pošiljanja implicitnih `Intent`-ov, s kat
 
 ---
 
-<img width="720" height="1600" alt="Screenshot_20261120-081213_Working_with_implicit_intentions_app" src="https://github.com/user-attachments/assets/62df80b7-f7c7-4bd3-b4ae-1a787c95218d" />
-<img width="720" height="1600" alt="Screenshot_20261120-081329_Chrome" src="https://github.com/user-attachments/assets/df59e17a-ebc0-40bb-aaa3-55475d8015b1" />
-<img width="720" height="1600" alt="Screenshot_20261120-081232_Android System" src="https://github.com/user-attachments/assets/2ec72f7a-94fe-4400-a9ef-aacb0cc765af" />
-<img width="720" height="1600" alt="Screenshot_20261120-081222_Phone" src="https://github.com/user-attachments/assets/4af3c665-38c4-4225-bdf1-ae3cb2054c6f" />
+<img width="360" height="800" alt="Screenshot_20261120-081213_Working_with_implicit_intentions_app" src="https://github.com/user-attachments/assets/62df80b7-f7c7-4bd3-b4ae-1a787c95218d" />
+<img width="360" height="800" alt="Screenshot_20261120-081329_Chrome" src="https://github.com/user-attachments/assets/df59e17a-ebc0-40bb-aaa3-55475d8015b1" />
+<img width="360" height="800" alt="Screenshot_20261120-081232_Android System" src="https://github.com/user-attachments/assets/2ec72f7a-94fe-4400-a9ef-aacb0cc765af" />
+<img width="360" height="800" alt="Screenshot_20261120-081222_Phone" src="https://github.com/user-attachments/assets/4af3c665-38c4-4225-bdf1-ae3cb2054c6f" />
